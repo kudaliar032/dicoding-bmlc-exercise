@@ -1,0 +1,36 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://i.pinimg.com/564x/6a/b8/c9/6ab8c95090eab4046fec08b709c61ff5.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.5",
+        "gravity": "center",
+        "position": "relative"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Kang Seul-gi",
+            "size": "3xl",
+            "color": "#ffffff",
+            "weight": "bold",
+            "style": "italic",
+            "margin": "xl"
+          }
+        ],
+        "position": "absolute",
+        "offsetBottom": "xl"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}
